@@ -18,6 +18,22 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * BootStrap
 
 # Features
+Finance Manager can: 
+* Login / Logout
+* View All Employees
+* Enter a New Employee
+* View All Employee Tickets
+* Change view by ticket status
+* Approve, reject, or delete the selected tickets in the list
+* My Expense Tickets screen to view the previous expense tickets for the manager
+* New Expense Ticket screen to let a manager to enter a new expense ticket for approval
+
+Employee can:
+* Login / Logout
+* My Expense Tickets screen to view the previous expense tickets for the employee
+* New Expense Ticket screen to let an employee to enter a new expense ticket for approval
+
+
 ## Future Development:
 * Add upload invoice to the expense ticket page.
 * Add employee update information page.
@@ -49,7 +65,7 @@ From your web browser use the link: http://localhost:8080/ERSAPI/Login.html to g
 * Below is My Expense Tickets screen and this is for employees and manager to view their previous expense tickets
 ![image](https://user-images.githubusercontent.com/71060267/105924245-82c44000-6003-11eb-81ac-a07deefb3440.png)
 
-* Below is New Expense Ticket to let employees and manager as an employee to enter a new expense ticket for approval
+* Below is New Expense Ticket to let employees and manager to enter their new expense ticket for approval
 ![image](https://user-images.githubusercontent.com/71060267/105924305-ab4c3a00-6003-11eb-8074-df2b18bbf374.png)
 
 * Employee menu has limitted access as below
