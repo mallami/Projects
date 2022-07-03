@@ -1,7 +1,5 @@
 # CineMatch
-Check out [CineMatch](http://cinematch.s3-website-us-east-1.amazonaws.com/) online! Use FireFox for the best experience.
 
-Also checkout the [Back End](https://github.com/2012JavaReston/MovieApp-BackEnd)
 ## Project Description
 CineMatch is a movie database where users can explore new movies, search movies, and get detailed information about movies. Users will be able to login/register, add movies to a “Favorites” and a “Want to Watch” list, and also be able to search for movies and post/view reviews.
 
@@ -86,4 +84,4 @@ Watch List: `http://localhost:4200/watch`
 
 ## Contributors
 
-Lester Young, Andrew Gee, Jeff Enriquez, Alec Sherlock, Ryan Murray
+Lester Young, Andrew Gee, Jeff Enriquez, Alec Sherlock, Ryan Murray, Mohammad Al-Lami, Brandon Moore, Anthony McKenzie 
