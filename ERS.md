@@ -23,7 +23,7 @@ Finance Manager can:
 * View All Employees
 * Enter a New Employee
 * View All Employee Tickets
-* Change view by ticket status
+* Change view by ticket status (Submitted, Rejected, Approved)
 * Approve, reject, or delete the selected tickets in the list
 * My Expense Tickets screen to view the previous expense tickets for the manager
 * New Expense Ticket screen to let a manager to enter a new expense ticket for approval
@@ -34,12 +34,11 @@ Employee can:
 * New Expense Ticket screen to let an employee to enter a new expense ticket for approval
 
 
-## Future Development:
+# Future Development:
 * Add upload invoice to the expense ticket page.
 * Add employee update information page.
                     
 # Getting Started
-From your web browser use the link: http://localhost:8080/ERSAPI/Login.html to get to Login page
 ![image](https://user-images.githubusercontent.com/71060267/105922101-8fdf3000-5fff-11eb-8302-53e887a99306.png)
 
 # Usage
