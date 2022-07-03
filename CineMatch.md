@@ -24,7 +24,7 @@ User can:
 * View list of random movies, tending movies, and movies to explore
 * Search a movie by name
 
-## Future Development:
+## Future Development
 * Friend List
 * Random Movie Filters (Language, rating, genre)
 * Profile Pictures
