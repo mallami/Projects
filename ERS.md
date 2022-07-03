@@ -34,7 +34,7 @@ Employee can:
 * New Expense Ticket screen to let an employee to enter a new expense ticket for approval
 
 
-# Future Development:
+# Future Development
 * Add upload invoice to the expense ticket page.
 * Add employee update information page.
                     
