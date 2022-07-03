@@ -1,7 +1,7 @@
 # CineMatch
 
 ## Project Description
-CineMatch is a movie database where users can explore new movies, search movies, and get detailed information about movies. Users will be able to login/register, add movies to a “Favorites” and a “Want to Watch” list, and also be able to search for movies and post/view reviews.
+CineMatch is a movie database where users can explore new movies, search movies, and get detailed information about movies. Users will be able to login/register, add movies to a “Liked” and a “Watch List”, and also be able to search for movies and post/view reviews.
 
 
 ## Technologies Used
