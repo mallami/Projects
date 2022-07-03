@@ -24,14 +24,6 @@ User can:
 * View list of random movies, tending movies, and movies to explore
 * Search a movie by name
 
-## To-do
-* Friend List
-* Random Movie Filters (Language, rating, genre)
-* Profile Pictures
-* UI polish
-* Trailer playback
-* Interface with third party streaming APIs
-
 ## Usage
 
 Landing: `http://localhost:4200/`
